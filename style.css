@@ -1,0 +1,41 @@
+body {
+    font-size: 15pt;
+}
+
+img{
+  height: 20px;
+}
+
+#space{
+  height: 150px;
+}
+
+#p{
+ /* background-color: rgba(255, 112, 112, 1);*/
+  margin: 0 50px;
+  height: 30px;
+  text-align: right;
+  border: 3px solid black;
+  font-size: 30px;
+}
+
+#calculator{
+  /*background-color:rgba(255, 0, 0, 1);
+*/  height: 350px;
+}
+
+#buttons{
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+td{
+  padding: 20px;
+}
+p{
+  text-align: right;
+}
+.gmail{
+  font-size: 10px;
+}
